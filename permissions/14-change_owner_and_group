@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ./change_owner_group.sh
+chown -R vincent:staff .
