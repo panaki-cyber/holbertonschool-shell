@@ -1,2 +1,2 @@
 #!/bin/bash
-bash script.sh
+find . -mindepht l -type d | wc -l
